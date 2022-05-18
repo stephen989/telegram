@@ -118,7 +118,7 @@ def list_diff(l1, l2):
 
 def get_headlines(url = home):
     articles = get_titles(url)
-    headlines = ([f"{i+1}. {article.title}\n" for i, article in enumerate(articles)])
+    headlines = ([f"{i+1}. {article.title}\n" for i, article in enumerate(articles[:15])])
     save("articles", articles)
     return headlines
 

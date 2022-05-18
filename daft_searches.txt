@@ -1,0 +1,4 @@
+{"d6_2bed": "https://www.daft.ie/property-for-rent/dublin-6-dublin?numBeds_from=2&numBeds_to=2",
+"d6_3bed": "https://www.daft.ie/property-for-rent/dublin-6-dublin?numBeds_from=3&numBeds_to=3",
+"Dz_nuts": "https://www.daft.ie/property-for-rent/dublin-6-dublin?numBeds_from=2&numBeds_to=3",
+"d4_2bed": "https://www.daft.ie/property-for-rent/dublin-4-dublin?numBeds_from=2&numBeds_to=2"}
